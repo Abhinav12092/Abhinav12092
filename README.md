@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav12092
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning AI&DS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in prompt engineering 
+- 🌱 I’m currently pursuing btech 3rd year 
+- 💞️ I’m looking to collaborate on Artificial intelligence projects
 
 - 
 - 📫 How to reach me ...
